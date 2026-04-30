@@ -89,3 +89,19 @@ Built with Python, it transforms complex data workflows into an **interactive GU
 ```text
 Upload Data → Clean Data → Normalize → Reduce → Visualize → Export
 
+
+
+🛠️ Tech Stack
+Category	Tools Used
+Language	Python
+GUI	Tkinter
+Data Handling	Pandas, NumPy
+ML Algorithms	Scikit-learn
+Visualization	Matplotlib
+
+
+📦Installation
+git clone https://github.com/your-username/DataForge.git
+cd DataForge
+pip install -r requirements.txt
+python main.py
