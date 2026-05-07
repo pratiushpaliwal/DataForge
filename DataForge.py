@@ -1295,4 +1295,5 @@ if __name__ == "__main__":
     app = DataCleaningApp()
     app.mainloop()
     
-# The End of DataForge.py 
+# The End of DataForge.py  
+# by Pratiush Paliwal
