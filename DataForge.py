@@ -1297,3 +1297,7 @@ if __name__ == "__main__":
     
 # The End of DataForge.py  
 # by Pratiush Paliwal
+
+# ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+# Data Forge  –  A simple data cleaning and visualization tool built with Python, Pandas, and Tkinter.
+# ───────────────────────────────────────────────────────────────────────────────────────────────────────────
